@@ -23,6 +23,6 @@ This is a simple command-line Task Manager built with Python. It allows you to:
 - Download the script `task_manager.py` (or use your own filename).
 - Open a terminal or command prompt.
 - Run:
-- 
+  
 '''bash
 python task_manager.py
